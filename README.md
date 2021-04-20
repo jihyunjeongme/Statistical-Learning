@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img class="main" src="./image/main.jpg" alt="Markdownify" width="400">
+  <img class="main" src="./image/main.jpg" width="400">
   <br>
   
   <br>
